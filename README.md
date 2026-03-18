@@ -23,4 +23,5 @@ This project analyzes over 500,000 transactions from one of Pakistan’s largest
 
 ---
 *Note: Due to GitHub file size limits (100MB+), the raw dataset is linked below rather than hosted in this repo.*
-[Link to Dataset Source Here]
+[Pakistan's Largest E-Commerce Dataset
+](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset)
